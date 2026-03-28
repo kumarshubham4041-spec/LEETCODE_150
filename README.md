@@ -15,3 +15,5 @@
 09. Jump Game II
 10. H-Index
 11. Length of last word
+12. Insert Delete Get Random O(1)
+13. Preoduct of Array except self
