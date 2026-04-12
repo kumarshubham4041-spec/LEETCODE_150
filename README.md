@@ -3,7 +3,7 @@
 ## Subject : DSA 
 ## Sheet : LEETCODE Top Interview 150
 
-### Completed Topicd
+### Completed Topics
 01. Array
 02. String
 03. Two Pointer
