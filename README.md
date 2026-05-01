@@ -1,4 +1,4 @@
-# Leetcode 150 DSA Questions 
+# Leetcode 150 Questions 
 ## Name : Shubham Kumar
 ## Subject : DSA 
 
