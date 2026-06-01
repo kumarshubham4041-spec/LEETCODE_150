@@ -8,4 +8,7 @@
 03. Two Pointer
 04. Sliding window
 05. Hashmap
+06. Interval
+07. Matrix
+08. Stack   
     
