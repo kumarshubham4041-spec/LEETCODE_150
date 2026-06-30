@@ -1,1 +1,1 @@
-[](..question_img/01.png)
+![](..question_img/01.png)
